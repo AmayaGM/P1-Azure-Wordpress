@@ -59,10 +59,5 @@
 ![Paso 5.1](/imagenes/Administrar.png)
 ![Paso 5.2](/imagenes/Administrar2.png)
 
-**Paso 6 Borrar grp de recursos**
-- Detener recursos
-![Paso 6.1](/imagenes/Detener1.png)
-- Eliminar grupo de recursos
-![Paso 6.2](/imagenes/Eliminar.png)
-> Para que no se gaste el saldo
+
 
